@@ -1,3 +1,3 @@
 default:
-	terraform init --backend-config=state.tf
+	terraform init
 	terraform apply --auto-approve
