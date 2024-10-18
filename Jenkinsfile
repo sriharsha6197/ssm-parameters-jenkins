@@ -5,6 +5,7 @@ pipeline {
             steps{
                 sh 'make'
                 echo "PARAMETER_STORE_CI"
+                echo "CI for parameters"
             }
         }
     }
