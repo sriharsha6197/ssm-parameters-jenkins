@@ -19,7 +19,7 @@ variable "parameters" {
   {
     name = "jenkins_url"
     type = "String"
-    value = "http://34.238.139.196:8080"
+    value = "http://54.175.89.33:8080"
   }
    ]
 }
