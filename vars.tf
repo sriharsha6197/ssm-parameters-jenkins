@@ -9,12 +9,12 @@ variable "parameters" {
   {
     name = "jenkins_username"
     type = "String"
-    value = "admin"
+    value = "sri"
   },
   {
     name = "jenkins_password"
     type = "SecureString"
-    value = "admin123"
+    value = "Harsha123"
   },
   {
     name = "jenkins_url"
